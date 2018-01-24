@@ -1,0 +1,14 @@
+"AddonInfo"
+{
+	"name"		"Clock"
+	"version"	"v1.0"
+	"up_date"	""
+	"author_name"	"ToXIc"
+	"author_email"	""
+	"author_url"	""
+ 
+	"info"		""
+	"override"	"0"
+	{
+	}
+}

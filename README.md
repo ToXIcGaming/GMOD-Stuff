@@ -1,3 +1,3 @@
 # GMOD-Stuff
 
-Test
+A collection of GMOD addons and other stuff.
